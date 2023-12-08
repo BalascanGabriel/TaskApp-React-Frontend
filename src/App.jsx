@@ -16,7 +16,7 @@ function App() {
   }
 
   //test sa vad daca face commit bine
-  //inca un test pt contributions
+  //inca un test pt contributions 2
 
   return (
     <div>
